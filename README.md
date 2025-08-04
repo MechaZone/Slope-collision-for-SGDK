@@ -6,4 +6,4 @@ https://www.youtube.com/playlist?list=PL1xqkpO_SvY2_rSwHTBIBxXMqmek--GAb
 Then I was later able to adapt it to handle slopes with help from SpaceBruce and this tutorial.
 https://spacebruce.netlify.app/posts/tilemap/
 
-My main character uses a 48x48 footprint so I had to add more detection points than either tutorial accounted for. I also limited hte slopes to just two different angles, bu thte system can accomodate a third by just editing the mapCollision files.
+My main character uses a 48x48 footprint so I had to add more detection points than either tutorial accounted for. I also limited the slopes to just two different angles, but the system can easily accomodate a third by just editing the mapCollision files.
