@@ -1,4 +1,7 @@
-It's not perfect, but maybe you can improve it or at least learn a thing or two from it?
+You can follow the progress of my Sega Genesis/Mega Drive game, Gilgamech, from my free Patreon blog
+patreon.com/mechazone
+
+This code isn't perfect, but maybe you can improve it or at least learn a thing or two from it?
 
 I originally built the baisc collision code without slope detection based on tutorials by Pigsy. 
 https://www.youtube.com/playlist?list=PL1xqkpO_SvY2_rSwHTBIBxXMqmek--GAb
