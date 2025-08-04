@@ -1,5 +1,5 @@
 You can follow the progress of my Sega Genesis/Mega Drive game, Gilgamech, from my free Patreon blog
-patreon.com/mechazone
+https://www.patreon.com/c/mechazone
 
 This code isn't perfect, but maybe you can improve it or at least learn a thing or two from it?
 
